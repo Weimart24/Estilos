@@ -25,3 +25,15 @@ info: #A4B494
 .bg-info{
     background-color: #A4B494;
 }
+.text-primary{
+    color: #382933;
+}
+.text-white{
+    color: white;
+}
+.bg-secondary{
+    background-color: #3B5249;
+}
+.table-center{
+    margin: auto;
+}
